@@ -1,0 +1,10 @@
+.backgroundimage {
+  background-image: url("../../../public/yup.webp");
+  z-index: -10;
+}
+
+.backgroundimage2 {
+  background-image: url("../../../public/d96.png");
+  background-size: 30;
+  z-index: -9;
+}
